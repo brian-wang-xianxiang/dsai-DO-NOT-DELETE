@@ -1,6 +1,6 @@
 ## Deploy simple web app to cloud
 
-- redner.com
+- render.com
 - huggingface.co
 - aws beanstalk
 
