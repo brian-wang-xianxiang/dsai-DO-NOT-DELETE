@@ -1,7 +1,7 @@
 ## Deploy simple web app to cloud
 
 - render.com
-- huggingface.co
+- huggingface.co   # need to remove README.md since HF use it for configuration???
 - aws beanstalk
 
 ## run locally
